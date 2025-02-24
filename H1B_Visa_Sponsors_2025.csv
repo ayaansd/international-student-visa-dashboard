@@ -1,0 +1,201 @@
+Rank,Employer,Number of LCA,Average Salary
+1,Amazon.Com Services,10969,149812.0
+2,Cognizant Technology Solutions,8688,101773.0
+3,Ernst & Young,8674,143378.0
+4,Tata Consultancy Services,8120,105529.0
+5,Google,7649,178184.0
+6,Microsoft,6649,163672.0
+7,Infosys,4926,103102.0
+8,Meta Platforms,4566,199944.0
+9,Intel,3242,145250.0
+10,Hcl America,3059,104848.0
+11,Amazon Web Services,2937,147451.0
+12,IBM,2921,140091.0
+13,Jpmorgan Chase,2812,149995.0
+14,Walmart,2788,158095.0
+15,Apple,2552,202303.0
+16,Accenture,2511,195369.0
+17,Capgemini,2313,123579.0
+18,Ltimindtree,2310,108592.0
+19,Deloitte Consulting,2111,139579.0
+20,Salesforce,1909,186106.0
+21,Qualcomm,1865,159292.0
+22,Tesla,1733,147929.0
+23,Amazon Development Center,1694,157620.0
+24,Wipro,1685,93146.0
+25,Fidelity Technology Group,1406,132473.0
+26,Tech Mahindra,1224,103525.0
+27,Compunnel Software Group,1221,122078.0
+28,Deloitte Touche,1218,91856.0
+29,Mphasis,1201,115641.0
+30,Nvidia,1088,213634.0
+31,Adobe,1085,183644.0
+32,Bytedance,953,206887.0
+33,"Goldman, Sachs",943,139648.0
+34,Cisco,929,167966.0
+35,Linkedin,900,206779.0
+36,Pricewaterhousecoopers Advisory Services,853,164397.0
+37,Paypal,812,161260.0
+38,Ebay,798,170366.0
+39,Servicenow,728,155359.0
+40,Visa USA,723,166318.0
+41,Persistent Systems,707,102270.0
+42,Amazon Data Services,688,142437.0
+43,Cummins,688,108634.0
+44,Lt Technology Services,663,104126.0
+45,Citibank,662,155016.0
+46,Oracle America,649,167565.0
+47,Ust Global,622,102043.0
+48,Uber,612,182748.0
+49,Deloitte Tax,611,82408.0
+50,AMD,606,168513.0
+51,Randstad Digital,596,128151.0
+52,Mckinsey,584,184345.0
+53,Cgi Technologies And Solutions,573,115076.0
+54,Hexaware Technologies,558,101002.0
+55,Kforce,549,139009.0
+56,Ford Motor,542,143472.0
+57,Rivian Automotive,539,153577.0
+58,General Motors,537,128029.0
+59,Boston Consulting,521,197174.0
+60,Hewlett Packard Enterprise,509,183745.0
+61,University Of Michigan,499,79734.0
+62,Morgan Stanley Services Group,496,152717.0
+63,Tiktok,489,205468.0
+64,Atos Syntel,488,99492.0
+65,Synechron,483,110287.0
+66,Grandison Management,477,70505.0
+67,Comcast Cable Communications,471,140865.0
+68,Virtusa,462,109539.0
+69,Lucid,460,164670.0
+70,Barclays Services,460,153006.0
+71,Goldman Sachs Services,455,141715.0
+72,Elevance Health,452,134288.0
+73,Western Digital Technologies,445,140549.0
+74,Coruscent,429,158418.0
+75,Dfs Corporate Services,420,131662.0
+76,Optum Services,419,149040.0
+77,Mayo Clinic Rochester,405,132148.0
+78,Intuit,403,182366.0
+79,Bank Of America,400,150277.0
+80,American Express Travel,398,153976.0
+81,Fis Management Services,395,132947.0
+82,US Bank National Association,394,137969.0
+83,Doordash,389,196228.0
+84,Johns Hopkins University,389,92379.0
+85,Yale University,386,113672.0
+86,Amgen,382,126702.0
+87,People Tech Group.,379,106316.0
+88,Vmware,376,199835.0
+89,Credit Suisse Securities Usa,375,142047.0
+90,Caremark,373,134968.0
+91,Wells Fargo Bank,369,166865.0
+92,Palo Alto Networks,367,194098.0
+93,Applied Materials,364,156823.0
+94,Mastech Digital Technologies,357,108121.0
+95,"The Leland Stanford, Jr University",356,94740.0
+96,Cloud Big Data Technologies,356,81904.0
+97,"Micron Technology, Utah",352,129916.0
+98,Milwaukee Board Of School Directors,351,78164.0
+99,The Mathworks,350,145524.0
+100,Group Pai,350,141159.0
+101,KPMG,343,150687.0
+102,Tmobile,341,141712.0
+103,Fiserv Solutions,340,151168.0
+104,University Of Pittsburgh Physicians,336,147536.0
+105,Capital One Services,335,173513.0
+106,Washington University In St. Louis,335,93331.0
+107,3d Technologies,335,81485.0
+108,Charles Schwab,332,149128.0
+109,Artifint Technologies,331,82356.0
+110,Dell,330,152429.0
+111,Vcloud Technology Group,325,82892.0
+112,Expedia,323,158445.0
+113,Machine Learning Technologies,322,78470.0
+114,Charter Communications,321,133459.0
+115,Emory University,319,100664.0
+116,Blockchain Technologies,318,82349.0
+117,CVS,317,138423.0
+118,Snap,315,178735.0
+119,CitiusTech,315,102363.0
+120,Htc Global Services,314,99008.0
+121,Infocons,310,95625.0
+122,Automation Technologies,308,82953.0
+123,Bloomberg,306,214189.0
+124,Medtronic,306,120131.0
+125,University Of Alabama At Birmingham,304,107069.0
+126,Innova Solutions,303,114337.0
+127,"University Of California, San Francisco",300,109793.0
+128,Columbia University,298,95324.0
+129,University Of Wisconsin-system,287,79876.0
+130,State Street Bank And Trust,286,149729.0
+131,Asml,284,146331.0
+132,Harvard University,284,99702.0
+133,Populus Group,283,150646.0
+134,Aetna Resources,283,138570.0
+135,Juniper Networks,277,157798.0
+136,Trustees Of University Of Pennsylvania,274,104347.0
+137,Robotic Process Automation,273,81539.0
+138,Eficens Systems,271,103025.0
+139,Machine Intelligence Technologies,271,79099.0
+140,Workday,270,178752.0
+141,University Of Chicago,270,106934.0
+142,National Institutes Of Health/Hhs,264,110263.0
+143,Cignaevernorth Services,263,142298.0
+144,University Of Florida,261,116366.0
+145,Exlservice.com,260,120542.0
+146,Memorial Sloankettering Cancer Center,260,117054.0
+147,Sap America,256,152349.0
+148,Northwestern University,255,81155.0
+149,Databricks,254,184581.0
+150,Pinterest,254,153514.0
+151,Globallogic,251,112965.0
+152,Iqvia,250,150791.0
+153,Netflix,249,242386.0
+154,Adp Technology Services,249,152301.0
+155,University Of Iowa,247,142754.0
+156,Equifax,246,135724.0
+157,Docusign,243,198843.0
+158,Mastercard Technologies,243,159125.0
+159,Lowes Companies,242,136282.0
+160,Zs Associates,241,162935.0
+161,Concentrix Cvg Customer Management Group,239,123662.0
+162,The Ohio State University,239,94249.0
+163,St. Jude Children’s Research Hospital,237,121600.0
+164,Infinite Computer Solutions,235,115339.0
+165,Texas Am University,234,89628.0
+166,"Ntt Data, Americas",233,125640.0
+167,Dallas Independent School District,233,68387.0
+168,Nike,229,169842.0
+169,Ubs Services,228,147278.0
+170,Bristol-myers Squibb,225,152278.0
+171,Hcl Global Systems,224,109607.0
+172,Nagarro,224,96748.0
+173,Home Depot Management,222,138883.0
+174,Icahn School of Medicine at Mount Sinai,218,108520.0
+175,University Of Minnesota Physicians,218,91448.0
+176,Ut-Battelle,217,115512.0
+177,Zoox,216,190530.0
+178,Erp Analysts,215,108144.0
+179,"University Of California, San Diego",215,94172.0
+180,The General Hospital,213,84738.0
+181,Nokia Of America,211,150149.0
+182,Caterpillar,211,117189.0
+183,Stripe,208,181007.0
+184,American Airlines,208,126168.0
+185,Vsoft Consulting Group,207,93391.0
+186,Upstate Cerebral Palsy,207,35356.0
+187,Goldman Sacks Bank Usa,206,137189.0
+188,Genpact,206,122325.0
+189,Db Global Technology,205,124386.0
+190,Coforge,205,122971.0
+191,Block,201,195593.0
+192,Wsp,200,103657.0
+193,Purdue University,200,88336.0
+194,Slalom,199,157501.0
+195,Intuitive Surgical,198,166394.0
+196,University Of Illinois,198,88736.0
+197,Duke University,197,91403.0
+198,The Vanguard Group,196,146514.0
+199,Fedex Corporate Services,196,115584.0
+200,The Curators Of The University Of Missouri,196,111155.0
