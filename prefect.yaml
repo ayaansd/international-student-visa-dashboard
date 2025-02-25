@@ -1,0 +1,22 @@
+deployments:
+- name: my-cloud-flow
+  entrypoint: flow.py:my_first_cloud_flow
+  pool: default-agent-pool
+  parameters: {}
+  version:
+  tags: []
+  concurrency_limit:
+  description:
+  work_pool:
+    name: python -m prefect init
+    work_queue_name: default
+    job_variables: {}
+  schedules:
+  - interval: 300.0
+    anchor_date: '2025-02-24T21:28:10.500255+00:00'
+    timezone: UTC
+    active: true
+  pull:
+  - prefect.deployments.steps.git_clone:
+      repository: https://github.com/ayaansd/international-student-visa-dashboard.git
+      branch: main
