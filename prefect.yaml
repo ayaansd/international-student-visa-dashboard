@@ -20,3 +20,23 @@ deployments:
   - prefect.deployments.steps.git_clone:
       repository: https://github.com/ayaansd/international-student-visa-dashboard.git
       branch: main
+- name: h1b-scraper-deployment
+  version:
+  tags: []
+  concurrency_limit:
+  description: Prefect Flow to scrape H1B data and store it in PostgreSQL.
+  entrypoint: h1b_prefect_flow.py:h1b_scraper_flow
+  parameters: {}
+  work_pool:
+    name: default
+    work_queue_name:
+    job_variables: {}
+  schedules:
+  - interval: 600.0
+    anchor_date: '2025-02-25T02:20:50.614084+00:00'
+    timezone: UTC
+    active: true
+  pull:
+  - prefect.deployments.steps.git_clone:
+      repository: https://github.com/ayaansd/international-student-visa-dashboard.git
+      branch: main
