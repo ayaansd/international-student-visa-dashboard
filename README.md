@@ -1,0 +1,1 @@
+Place exported H-1B CSVs here. Expected schema: employer, job_title, soc_code, wage_offered, wage_unit, city, state, case_status, decision_year.
