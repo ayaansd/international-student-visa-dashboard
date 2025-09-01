@@ -40,6 +40,7 @@ H-1B Disclosure Data (OFLC) → employer filings, wages, SOC codes.
 ⚠️ Respect robots.txt and ToS when scraping. For production, prefer official datasets.
 
 🛠️ Architecture & Flow
+
 <img width="451" height="627" alt="image" src="https://github.com/user-attachments/assets/04c370c6-a557-40e1-83c3-9956fde801d9" />
 
 CI & Proof
